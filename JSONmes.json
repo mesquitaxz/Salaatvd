@@ -1,0 +1,21 @@
+
+{"usuarios": [
+  {
+    "nome":"PABLO",
+    "idade":22
+  },
+  {
+    "nome":"SALAH",
+    "idade":18
+  },
+  {
+    "nome":"DANILO",
+    "idade":27
+  },
+  {
+    "nome":"JOÃO PEDRO",
+    "idade":39
+  }
+]
+
+}
